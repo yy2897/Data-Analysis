@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt

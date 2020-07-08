@@ -3,7 +3,7 @@
 
 #  #  <p style="text-align: center;">Discovering customer attrition patterns</p> 
 
-# I analyze customer attrition data to discover patterns. These will help the customer service team to dive deeper into those patterns and do root cause analysis of why they are happening. I will use association rules mining algorithm for this purpose.
+# I analyze customer attrition data to discover patterns. These will help the marketing team to dive deeper into those patterns and do root cause analysis of why they are happening. I will use association rules mining algorithm for this purpose.
 
 # ## Load the Dataset and Transform
 # 
